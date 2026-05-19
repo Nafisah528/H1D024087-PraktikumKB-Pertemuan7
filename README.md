@@ -2,7 +2,7 @@
 
 ## Identitas
 
-* Nama : Nafisah
+* Nama : Nafisah Sekar Ayu
 * NIM : H1D024087
 * Shift Awal: F
 * Shift Akhir: C
@@ -31,14 +31,7 @@ Program akan mempelajari pola dari data tersebut, kemudian memprediksi jenis bun
 # Dataset
 
 Dataset yang digunakan berasal dari UCI Machine Learning Repository:
-
 https://archive.ics.uci.edu/dataset/53/iris
-
-Dataset terdiri dari:
-
-* 150 data bunga
-* 4 atribut/f fitur
-* 3 kelas spesies bunga iris
 
 ---
 
