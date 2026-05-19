@@ -9,9 +9,9 @@
 
 ---
 
-# Deskripsi Praktikum
+# Deskripsi Program
 
-Pada praktikum ini dilakukan implementasi Jaringan Syaraf Tiruan (JST) menggunakan TensorFlow dan Keras untuk mengklasifikasikan spesies bunga Iris. Dataset Iris dipilih karena merupakan salah satu dataset dasar yang sering digunakan dalam pembelajaran machine learning dan neural network.
+Program ini merupakan implementasi Jaringan Syaraf Tiruan (JST) menggunakan TensorFlow dan Keras untuk mengklasifikasikan spesies bunga Iris. Dataset Iris dipilih karena merupakan salah satu dataset dasar yang sering digunakan dalam pembelajaran machine learning dan neural network.
 
 Klasifikasi dilakukan berdasarkan empat fitur utama bunga, yaitu:
 
